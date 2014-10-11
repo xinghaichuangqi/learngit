@@ -9,3 +9,5 @@ Creating a new branch is quick and simple.
 >>>>>>> feature1
 add merge
 modified1
+
+look up the diff
