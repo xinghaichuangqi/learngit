@@ -14,3 +14,5 @@ look up the diff
 create a new new branch
 new merge problem
 222
+
+git gui
