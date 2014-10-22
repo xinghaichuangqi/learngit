@@ -16,3 +16,4 @@ new merge problem
 222
 
 git gui
+use the vim program readme.txt
