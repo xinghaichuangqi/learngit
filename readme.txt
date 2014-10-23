@@ -19,3 +19,5 @@ git gui
 use the vim program readme.txt
 
 look up the branch
+
+git gui experience
