@@ -21,5 +21,3 @@ use the vim program readme.txt
 look up the branch
 
 git gui experience
-
-git rebase -i de yanzheng
